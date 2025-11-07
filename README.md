@@ -4,7 +4,7 @@
 
 **Purpose:**  
 RecipeLab is a focused workspace for recipe developers to document, test, and refine their creations through structured iterations.  
-The app is designed as a **clean, text-first environment** where users can record details, compare versions, and identify their “main” recipe — without distractions.
+The desktop app is designed as a **clean, text-first environment** where users can record details, compare versions, and identify their “main” recipe — without distractions.
 
 ---
 
